@@ -1,0 +1,15 @@
+/.venv
+/.vscode
+/360sweeper_esp32_ble
+/__pycache__
+/lidar_scan_0999.png
+/lidar_scan_1106.png
+/lidar_scan_4202.png
+/lidar_scan_4299.png
+/lidar_scan_4356.png
+/lidar_scan_4383.png
+/lidar_scan_4393.png
+/lidar_scan_4400.png
+/lidar_scan_4404.png
+/processing.serial.*
+/sketch_360_Scanner.pde
